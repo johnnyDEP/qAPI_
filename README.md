@@ -7,7 +7,7 @@ So you would like to automate your vulnerability management lifecycle?  Good luc
 
 - Must user Qualys for vulnerability scanning.
 
-- For added functionality an additional commandlet has been included to generating tickets with an external ticketing system via email (this format requires Computer Associates Service Desk, but if your's takes an email as input it should just be a formatting change, also if you do set this up submit a pull request to the github project and I will include another cmdlet for your ticketing system)
+- For added functionality an additional cmdlet has been included to generate tickets with an external ticketing system via email (this format requires Computer Associates Service Desk, but if your's takes an email as input it should just be a formatting change, also if you do set this up submit a pull request to the github project and I will include another cmdlet for your ticketing system)
 
 Once these are met it is quite simple to get up and rolling with this module.  Clone the repo from git and then import the module into your powershell environment.  Once done you will have the following cmdlets at your disposal:
 
